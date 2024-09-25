@@ -5,3 +5,6 @@
 
 [Condicionais.zip](https://github.com/user-attachments/files/16956224/Condicionais.zip)
 
+
+
+[AULA24_09.zip](https://github.com/user-attachments/files/17122501/AULA24_09.zip)
