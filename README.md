@@ -8,3 +8,6 @@
 [AULA24_09.zip](https://github.com/user-attachments/files/17122501/AULA24_09.zip)
 
 [AULA_01_10.zip](https://github.com/user-attachments/files/17217729/AULA_01_10.zip)
+
+
+[emprestimo.zip](https://github.com/user-attachments/files/17300270/emprestimo.zip)
