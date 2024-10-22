@@ -11,3 +11,5 @@
 
 
 [emprestimo.zip](https://github.com/user-attachments/files/17300270/emprestimo.zip)
+
+[aula22.10.zip](https://github.com/user-attachments/files/17483210/aula22.10.zip)
