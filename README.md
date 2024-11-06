@@ -15,3 +15,6 @@
 [aula22.10.zip](https://github.com/user-attachments/files/17483210/aula22.10.zip)
 
 [Aula29.10.zip](https://github.com/user-attachments/files/17564280/Aula29.10.zip)
+
+
+[AULA 05.11.zip](https://github.com/user-attachments/files/17639997/AULA.05.11.zip)
