@@ -18,3 +18,5 @@
 
 
 [AULA 05.11.zip](https://github.com/user-attachments/files/17639997/AULA.05.11.zip)
+
+[Estrutura de Dados I.zip](https://github.com/user-attachments/files/18806927/Estrutura.de.Dados.I.zip)
