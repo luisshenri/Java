@@ -32,5 +32,9 @@
 [EstruturaDeDados07.03.zip](https://github.com/user-attachments/files/19137307/EstruturaDeDados07.03.zip)
 
 
+[EstruturaDeDados21.03.zip](https://github.com/user-attachments/files/19399139/EstruturaDeDados21.03.zip)
+
+
+
 
 
