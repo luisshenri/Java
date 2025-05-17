@@ -40,6 +40,9 @@
 
 [EstruturaDeDados11.04.zip](https://github.com/user-attachments/files/19715407/EstruturaDeDados11.04.zip)
 
+[PilhaDinamicaEncadeada.zip](https://github.com/user-attachments/files/20260277/PilhaDinamicaEncadeada.zip)
+
+
 
 
 
